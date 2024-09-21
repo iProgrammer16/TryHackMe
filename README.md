@@ -1,1 +1,1 @@
-###﻿# Join me on a journey to learn Cybersecurity from the ground up through the TryHackMe platform, with a variety of lessons, challenges, and hands-on labs. Let's develop our skills together and reach a professional level in this field.
+###﻿#Join me on a journey to learn Cybersecurity from the ground up through the TryHackMe platform, with a variety of lessons, challenges, and hands-on labs. Let's develop our skills together and reach a professional level in this field.
