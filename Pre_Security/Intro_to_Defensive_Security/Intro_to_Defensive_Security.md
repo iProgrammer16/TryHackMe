@@ -146,6 +146,7 @@
 ما هو العلم الذي حصلت عليه من خلال المتابعة؟  
 `THM{THREAT-BLOCKED}`
 
+اضغط على الصورة لمشاهدة الحل على اليوتيوب:  
 [![Practical Example of Defensive Security](https://img.youtube.com/vi/wCOKvpZ1FMU/0.jpg)](https://youtu.be/wCOKvpZ1FMU?si=n9q0crE-HbNh7Gaw)
 
 
