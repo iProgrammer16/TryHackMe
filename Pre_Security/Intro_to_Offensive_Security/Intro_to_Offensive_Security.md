@@ -112,9 +112,13 @@ Gobuster v2.0.1
 
 - لا حاجة للإجابة
 
-**حل أول لاب:**
+**حل أول لاب:**  
 
-[شاهد الفيديو](https://youtu.be/I7tGDlRm_TI)
+اضغط على الصورة لمشاهدة الحل على اليوتيوب:  
+[![Intro_to_Offensive_Security Your_first_hack.mp4](https://img.youtube.com/vi/I7tGDlRm_TI/0.jpg)](https://youtu.be/I7tGDlRm_TI?si=AtPJ168Uk8ANnCz_)
+
+
+أو يمكنك تحميل الفيديو من هنا: [Download Video](Your_first_hack.mp4)
 
 ---
 ### المهن المتاحة في مجال الأمن السيبراني
