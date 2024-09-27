@@ -4,7 +4,7 @@
 
 #### المهمة 1: المقدمة | Introduction
 
-![[tryhackme.com_r_room_careersincyber.png]]
+![careersincyber1](careersincyber1.png)
 
 تزداد مهن الأمن السيبراني طلبًا وتقدم [رواتب عالية](https://tryhackme.com/r/resources/blog/cyber-security-salary-career-options). هناك العديد من الوظائف المختلفة في صناعة الأمن، من اختبار الاختراق الهجومي (قرصنة الأنظمة وإعداد تقارير عن الثغرات) إلى الأمن الدفاعي (الدفاع ضد الهجمات السيبرانية والتحقيق فيها).
 
@@ -16,14 +16,14 @@
 
 تساعد هذه الغرفة في دخول عالم الأمن السيبراني من خلال تقديم معلومات حول أدوار الأمن السيبراني المختلفة؛ كما توفر روابط لطرق تعلم مختلفة يمكنك استخدامها لبدء بناء مهاراتك في الأمن السيبراني.
 
-**أجب عن الأسئلة أدناه:**
-لنبدأ استكشاف الأدوار المختلفة في الأمن السيبراني!
+**أجب عن الأسئلة أدناه:**  
+لنبدأ استكشاف الأدوار المختلفة في الأمن السيبراني!  
 `لا حاجة للإجابة.`
 
 ---
 #### المهمة 2: محلل أمني | Security Analyst
 
-![[tryhackme.com_r_room_careersincyber (3).png]]
+![careersincyber2](careersincyber2.png)
 
 مسؤول عن الحفاظ على أمان بيانات المؤسسة
 
@@ -41,14 +41,14 @@
 - [الأمن السيبراني الأساسي | Pre Security](https://tryhackme.com/r/path/outline/presecurity)
 - [مركز العمليات الأمنية المستوى 1 | SOC Level 1](https://tryhackme.com/r/path/outline/soclevel1)
 
-**أجب عن الأسئلة أدناه:**
-اقرأ عن ما يفعله محلل الأمان.
+**أجب عن الأسئلة أدناه:**  
+اقرأ عن ما يفعله محلل الأمان.  
 `لا حاجة للإجابة.`
 
 ---
 #### المهمة 3: مهندس أمني | Security Engineer
 
-![[tryhackme.com_r_room_careersincyber (1).png]]
+![careersincyber3](careersincyber3.png)
 
 تصميم ومراقبة وصيانة عناصر التحكم الأمنية والشبكات والأنظمة للمساعدة في منع الهجمات السيبرانية.
 
@@ -66,14 +66,14 @@
 - [مختبر اختراق مبتدئ | JR Penetration Tester](https://tryhackme.com/r/path/outline/jrpenetrationtester)
 - [اختبار الاختراق هجومي | Offensive Pentesting](https://tryhackme.com/r/path/outline/pentesting)
 
-**أجب عن الأسئلة أدناه:**
-اقرأ عن ما يفعله مهندس الأمان.
+**أجب عن الأسئلة أدناه:**  
+اقرأ عن ما يفعله مهندس الأمان.  
 `لا حاجة للإجابة.`
 
 ---
 #### المهمة 4: الاستجابة للحوادث | Incident Responder
 
-![[tryhackme.com_r_room_careersincyber 1.png]]
+![careersincyber4](careersincyber4.png)
 
 يحدد ويخفف الهجمات بينما لا تزال عمليات المهاجمين مستمرة.
 
@@ -89,14 +89,14 @@
 
 - [مركز العمليات الأمنية المستوى 1 | SOC Level 1](https://tryhackme.com/r/path/outline/soclevel1)
 
-**أجب عن الأسئلة أدناه:**
-اقرأ عن ما يفعله مستجيب الحوادث.
+**أجب عن الأسئلة أدناه:**  
+اقرأ عن ما يفعله مستجيب الحوادث.  
 `لا حاجة للإجابة.`
 
 ---
 #### المهمة 5: محقق جنائي رقمي | Digital Forensics Examiner
 
-![[tryhackme.com_r_room_careersincyber 2.png]]
+![careersincyber5](careersincyber5.png)
 
 مسؤول عن استخدام التحليلات الرقمية للتحقيق في الحوادث والجرائم.
 
@@ -107,14 +107,14 @@
 - تحليل الأدلة الرقمية للعثور على إجابات تتعلق بالقضية.
 - توثيق نتائجك والإبلاغ عن القضية.
 
-**أجب عن الأسئلة أدناه:**
-اقرأ عن ما يفعله فاحص الطب الشرعي الرقمي.
+**أجب عن الأسئلة أدناه:**  
+اقرأ عن ما يفعله فاحص الطب الشرعي الرقمي.  
 `لا حاجة للإجابة.`
 
 ---
 #### المهمة 6: محلل البرمجيات الخبيثة | Malware Analyst
 
-![[tryhackme.com_r_room_careersincyber 3.png]]
+![careersincyber6](careersincyber6.png)
 
 يحلل جميع أنواع البرمجيات الخبيثة لمعرفة المزيد عن كيفية عملها وما تفعله.
 
@@ -125,14 +125,14 @@
 - إجراء تحليل ديناميكي لعينات البرمجيات الخبيثة من خلال مراقبة أنشطتها في بيئة مسيطر عليها.
 - توثيق وتقديم تقارير عن جميع النتائج.
 
-**أجب عن الأسئلة أدناه:**
-اقرأ عن ما يفعله محلل البرمجيات الخبيثة.
+**أجب عن الأسئلة أدناه:**  
+اقرأ عن ما يفعله محلل البرمجيات الخبيثة.  
 `لا حاجة للإجابة.`
 
 ---
 #### المهمة 7: مختبر اختراق | Penetration Tester
 
-![[tryhackme.com_r_room_careersincyber (1) 1.png]]
+![careersincyber7](careersincyber7.png)
 
 مسؤول عن اختبار منتجات التكنولوجيا للثغرات الأمنية.
 
@@ -149,14 +149,14 @@
 - [مختبر اختراق مبتدئ | Jr Penetration Tester](https://tryhackme.com/r/path/outline/jrpenetrationtester)
 - [اختبار الاختراق هجومي | Offensive Pentesting](https://tryhackme.com/r/path/outline/pentesting)
 
-**أجب عن الأسئلة أدناه:**
-اقرأ عن ما يفعله مختبر الاختراق.
+**أجب عن الأسئلة أدناه:**  
+اقرأ عن ما يفعله مختبر الاختراق.  
 `لا حاجة للإجابة.`
 
 ---
 #### المهمة 8: فريق الهجوم الأحمر | Red Teamer
 
-![[tryhackme.com_r_room_careersincyber (2).png]]
+![careersincyber8](careersincyber8.png)
 
 يلعب دور الخصم، مهاجمًا منظمة ويقدم تغذية راجعة من منظور الأعداء.
 
@@ -174,8 +174,8 @@
 - [اختبار اختراق هجومي | Offensive Pentesting](https://tryhackme.com/r/path/outline/pentesting)
 - [فريق الهجوم الأحمر | Red Teamer](https://tryhackme.com/r/path/outline/redteaming)
 
-**أجب عن الأسئلة أدناه:**
-اقرأ عن ما يفعله فريق الهجوم الأحمر.
+**أجب عن الأسئلة أدناه:**  
+اقرأ عن ما يفعله فريق الهجوم الأحمر.  
 `لا حاجة للإجابة.`
 
 ---
