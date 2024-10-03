@@ -68,7 +68,8 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 (Once you complete the beginner path, you should have learnt the fundamental knowledge for each specific area, and use these core concepts to build your understanding of more complex topics within the area.)
 
 ### المتطلبات الأساسية (Prerequisites)
-تحتاج إلى فهم أساسي لمبادئ الحوسبة العامة وفهم واسع لمجالات الأمن السيبراني المختلفة لإكمال هذا المسار. إذا كنت لا تمتلك هذه المتطلبات الأساسية بعد، يفضل إكمال مسار "ما قبل الأمن" ومسار "مقدمة في الأمن السيبراني".  
+تحتاج إلى فهم أساسي لمبادئ الحوسبة العامة وفهم واسع لمجالات الأمن السيبراني المختلفة لإكمال هذا المسار. إذا كنت لا تمتلك هذه المتطلبات الأساسية بعد، يفضل إكمال مسار "[ما قبل الأمن | Pre Security](https://tryhackme.com/r/path/outline/presecurity)" ومسار "[مقدمة في الأمن السيبراني | Introduction to Cyber Security](https://tryhackme.com/r/path/outline/introtocyber)
+".  
 (You need a basic understanding of fundamental computing principles and a broad understanding of the different areas of cyber security to complete this pathway. If you do not already have these prerequisites, complete the Pre-Security Pathway and Intro To Cyber Security Pathway.)
 
 ---
