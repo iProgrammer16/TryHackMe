@@ -112,17 +112,17 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 - **تعرف على الوظائف المختلفة في مجال الأمن السيبراني (Learn about different careers in cyber)**
 - **اختراق تطبيقك الأول (Hack your first application)**
 - **الدفاع ضد هجوم سيبراني حي (Defend against a live cyber attack)**
-- **استكشاف موضوعات الأمان في الصناعة (Explore security topics in the industry)**
+- **استكشاف موضوعات الأمان في المجال (Explore security topics in the industry)**
 
 ### البداية في الأمن السيبراني (Getting Started)
-ابدأ في مجال الأمن السيبراني من خلال اختراق تطبيقك الأول والدفاع ضد هجوم سيبراني حي في بيئة مختبرية محاكاة. تعرف على الوظائف المختلفة في مجال الأمن السيبراني، الأدوار، والمهارات المطلوبة للحصول على وظيفتك الأولى في الصناعة.  
+ابدأ في مجال الأمن السيبراني من خلال اختراق تطبيقك الأول والدفاع ضد هجوم سيبراني حي في بيئة مختبرية محاكاة. تعرف على الوظائف المختلفة في مجال الأمن السيبراني، الأدوار، والمهارات المطلوبة للحصول على وظيفتك الأولى في المجال.  
 (Get started in cyber security by hacking your first application and defending against a live cyber attack in a simulated lab environment. Learn about the different cyber careers, roles, and skills required to get your first job in the industry.)
 
 #### المهارات الأساسية المكتسبة (Acquired Core Skills):
 - **تعرف على الوظائف المختلفة في مجال الأمن السيبراني (Learn about different careers in cyber)**
 - **اختراق تطبيقك الأول (Hack your first application)**
 - **الدفاع ضد هجوم سيبراني حي (Defend against a live cyber attack)**
-- **استكشاف موضوعات الأمان في الصناعة (Explore security topics in the industry)**
+- **استكشاف موضوعات الأمان في المجال (Explore security topics in the industry)**
 
 ### مقدمة عامة (General Introduction)
 يُعد الأمن السيبراني موضوعًا واسعًا، وقد يكون من الصعب معرفة من أين تبدأ. يوفر لك هذا المسار مقدمة عملية في مختلف المجالات داخل الأمن السيبراني، بما في ذلك:  
@@ -131,7 +131,7 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 - **الوظائف في مجال الأمن السيبراني (Careers in Cyber Security)**
 - **الأمن الهجومي: اختراق تطبيقك الأول (Offensive Security: hacking your first application)**
 - **الأمن الدفاعي: الدفاع ضد هجوم سيبراني حي (Defensive Security: defending against a live cyber attack)**
-- **استكشاف موضوعات الأمان في الصناعة (Exploring security topics in the industry)**
+- **استكشاف موضوعات الأمان في المجال (Exploring security topics in the industry)**
 
 #### الفائدة المكتسبة (Gained Knowledge)
 بإكمال هذا المسار التعليمي، ستحصل على المعرفة اللازمة لبدء رحلتك في مجال الأمن السيبراني.  
@@ -150,7 +150,7 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 #### المواضيع الأساسية (Core Topics):
 - **فهم أساسيات الويب (Understand web fundamentals)**
 - **شرح الثغرات الرئيسية (Major vulnerabilities explained)**
-- **تعلم الأدوات المستخدمة في الصناعة (Learn industry-used tools)**
+- **تعلم الأدوات المستخدمة في المجال (Learn industry-used tools)**
 - **تقييمات تطبيقات الويب (Web application assessments)**
 
 تعلم كيفية الهجوم على تطبيقات الويب من خلال تمارين تفاعلية وعالمية.  
@@ -326,22 +326,22 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 (Prepare yourself for real world penetration testing.)
 
 #### المواضيع الأساسية (Core Topics):
-- **استخدام أدوات معايير الصناعة (Utilise industry standard tools)**
+- **استخدام أدوات معايير المجال (Utilise industry standard tools)**
 - **تعلم سيناريوهات الهجوم الواقعية (Learn realistic attack scenarios)**
 - **التدريب في الأمن الهجومي (Train in offensive security)**
 - **تمارين وموارد داعمة (Supporting exercises & resources)**
 
-اكتسب المهارات اللازمة للحصول على الشهادات المعروفة في صناعة الأمن. تعلم عن أدوات اختبار الاختراق المستخدمة في الصناعة واكتساب تقنيات لتصبح مختبر اختراق ناجح.  
+اكتسب المهارات اللازمة للحصول على الشهادات المعروفة في صناعة الأمن. تعلم عن أدوات اختبار الاختراق المستخدمة في المجال واكتساب تقنيات لتصبح مختبر اختراق ناجح.  
 (Acquire the skills needed to go and get certified by well known certifiers in the security industry. Learn about industry-used penetration testing tools and attain techniques to become a successful penetration tester.)
 
 #### مقدمة عامة (General Introduction)
 مهما كانت موقعك، ستكون المهارات والمتطلبات لمختبر الاختراق هي نفسها. ستحتاج إلى فهم جيد لمختلف جوانب الأمن المعلوماتي بما في ذلك تطبيقات الويب، والشبكات، وأحيانًا حتى التكنولوجيا منخفضة المستوى مثل لغة التجميع. إن الفهم الجيد لهذه التقنيات أمر أساسي لتعلم كيفية استغلالها.  
 (No matter where you are, the skills and requirements for a penetration tester will be the same. You’ll be required to have a good understanding of various aspects within information security including web applications, networks and sometimes even low level technology like assembly. A good understanding of these technologies is essential to learning how to exploit them.)
 
-الهدف من هذا المسار هو جعلك جاهزًا لاختبار الاختراق في العالم الحقيقي من خلال تعليمك كيفية استخدام أدوات معايير الصناعة مع منهجية للعثور على الثغرات في الآلات. بحلول الوقت الذي تكمل فيه هذا المسار، ستكون مستعدًا تمامًا للمقابلات والوظائف كمختبر اختراق. لكي تكمل هذا المسار، يجب أن يكون لديك فهم أساسي إلى متوسط للحوسبة.  
+الهدف من هذا المسار هو جعلك جاهزًا لاختبار الاختراق في العالم الحقيقي من خلال تعليمك كيفية استخدام أدوات معايير المجال مع منهجية للعثور على الثغرات في الآلات. بحلول الوقت الذي تكمل فيه هذا المسار، ستكون مستعدًا تمامًا للمقابلات والوظائف كمختبر اختراق. لكي تكمل هذا المسار، يجب أن يكون لديك فهم أساسي إلى متوسط للحوسبة.  
 (The aim of this path is to make you ready for real world penetration testing by teaching you how to use industry standard tools along with a methodology to find vulnerabilities in machines. By the time you complete this path, you will be well prepared for interviews and jobs as a penetration tester. To complete this path you should have a basic to medium understanding of computing.)
 
-يمكنك استخدام هذا المسار لمساعدتك في اكتساب المهارات اللازمة للحصول على الشهادات المعروفة في صناعة الأمن.  
+يمكنك استخدام هذا المسار لمساعدتك في اكتساب المهارات اللازمة للحصول على الشهادات المعروفة في مجال الأمن.  
 (You can use this pathway to help you acquire the skills needed to go and get certified by well known certifiers in the security industry.)
 
 ---
