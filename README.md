@@ -159,7 +159,7 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 #### الهدف من المسار (Pathway Aim)
 الهدف من هذا المسار هو تعليمك كيفية الهجوم على تطبيقات الويب. لكي تتمكن من الهجوم بنجاح واستغلال تطبيقات الويب، تحتاج إلى فهم كيفية عملها. سيقدم لك القسم الأول (أساسيات الويب) كل المعرفة المسبقة اللازمة لذلك.
 
-يركز القسم الثاني (أدوات الأمان) على تعلم كيفية استخدام أدوات المعايير الصناعية للتفاعل مع الأهداف الخاصة بك.
+يركز القسم الثاني (أدوات الأمان) على تعلم كيفية استخدام أدوات المعايير في المجال للتفاعل مع الأهداف الخاصة بك.
 
 يغطي القسم الثالث (الثغرات) مختلف الثغرات الموجودة في تطبيقات الويب اليوم. سوف يتناول هذا القسم الأسباب الجذرية لهذه الثغرات ويقدم لك خبرة عملية في استغلالها.
 
@@ -167,7 +167,7 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 
 #### بعد إكمال هذا المسار، يجب أن تكون قادرًا على: 
 - **فهم كيفية عمل تطبيقات الويب (understand how web applications work)**
-- **استخدام أدوات المعايير الصناعية عند مهاجمة تطبيقات الويب (utilise industry standard tooling when attacking web applications)**
+- **استخدام أدوات المعايير المجال عند مهاجمة تطبيقات الويب (utilise industry standard tooling when attacking web applications)**
 - **شرح واستغلال الثغرات الشائعة في الويب (explain and exploit common web vulnerabilities)**
 - **تطبيق هذه المعرفة على أهداف أخرى (be it within an interview or a professional web applications security assessment)**
 
@@ -331,7 +331,7 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 - **التدريب في الأمن الهجومي (Train in offensive security)**
 - **تمارين وموارد داعمة (Supporting exercises & resources)**
 
-اكتسب المهارات اللازمة للحصول على الشهادات المعروفة في صناعة الأمن. تعلم عن أدوات اختبار الاختراق المستخدمة في المجال واكتساب تقنيات لتصبح مختبر اختراق ناجح.  
+اكتسب المهارات اللازمة للحصول على الشهادات المعروفة في مجال الأمن. تعلم عن أدوات اختبار الاختراق المستخدمة في المجال واكتساب تقنيات لتصبح مختبر اختراق ناجح.  
 (Acquire the skills needed to go and get certified by well known certifiers in the security industry. Learn about industry-used penetration testing tools and attain techniques to become a successful penetration tester.)
 
 #### مقدمة عامة (General Introduction)
