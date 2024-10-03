@@ -198,7 +198,7 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 - **إدارة التهديدات ونقاط الضعف (Threat and Vulnerability Management)**
 - **عمليات الأمن والمراقبة (Security Operations and Monitoring)**
 - **محاكاة التهديدات (Threat Emulation)**
-- **الاستجابة للحوادث والطب الشرعي (Incident Response & Forensics)**
+- **التحقيقات الرقمية والاستجابة للحوادث (Incident Response & Forensics)**
 - **تحليل البرمجيات الخبيثة والهندسة العكسية (Malware Analysis and Reverse Engineering)**
 
 بمجرد إكمال هذا المسار، يجب أن يكون لديك العناصر الأساسية لكشف والرد على التهديدات في بيئة مؤسسية واستخدام هذه المفاهيم الأساسية لبناء فهمك لمواضيع أكثر تعقيدًا في هذا المجال.  
@@ -218,7 +218,7 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 (Learn the skills needed to work as a Junior Security Analyst in a Security Operations Centre.)
 
 #### المواضيع الأساسية (Core Topics):
-- **كشف وتحليل الشذوذ في حركة المرور (Detect and analyse traffic anomalies)**
+- **كشف وتحليل الاستثناءات في حركة المرور (Detect and analyse traffic anomalies)**
 - **مراقبة النقاط النهائية للتهديدات (Monitor endpoints for threats)**
 - **استخدام أدوات SIEM للتعامل مع الحوادث (Utilise SIEM tools to handle incidents)**
 - **التحقيق في الأدلة الجنائية (Investigate forensic artefacts)**
@@ -231,7 +231,7 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 
 تشمل مسؤوليات محلل الأمان المبتدئ أو محلل SOC من المستوى 1 ما يلي:
 - **مراقبة والتحقيق في التنبيهات** (Monitor and investigate alerts) (في معظم الأحيان، يكون ذلك في بيئة عمليات SOC تعمل على مدار الساعة.)
-- **تكوين وإدارة أدوات الأمان (Configure and manage security tools)**
+- **إعداد وإدارة أدوات الأمان (Configure and manage security tools)**
 - **تطوير وتنفيذ توقيعات IDS (Develop and implement IDS signatures)**
 - **تصعيد حوادث الأمان إلى المستوى 2 و قائد الفريق إذا لزم الأمر (Escalate the security incidents to the Tier 2 and Team Lead if needed)**
 
@@ -273,7 +273,7 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 
 #### المواضيع الأساسية (Core Topics):
 - **أساليب وتقنيات اختراق الأنظمة (Pentesting methodologies and tactics)**
-- **التعداد، الاستغلال، والتقارير (Enumeration, exploitation and reporting)**
+- **جمع معلومات، الاستغلال، والتقارير (Enumeration, exploitation and reporting)**
 - **تمارين اختراق عملية واقعية (Realistic hands-on hacking exercises)**
 - **تعلم أدوات الأمان المستخدمة في المجال (Learn security tools used in the industry)**
 
@@ -406,7 +406,7 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 
 #### المواضيع الأساسية (Core Topics):
 - **استخدام تقنيات متنوعة للوصول الأولي (Use diverse techniques for initial access)**
-- **العد على الأهداف والبقاء عليها (Enumerate and persist on targets)**
+- **جمع الأهداف والبقاء عليها (Enumerate and persist on targets)**
 - **تجنب حلول الأمان (Evade security solutions)**
 - **استغلال Active Directory (Exploit Active Directory)**
 
