@@ -6,6 +6,8 @@ TryHackMe هي منصة تعليمية تفاعلية تهدف إلى تعزيز
 
 TryHackMe is an interactive learning platform aimed at enhancing cybersecurity skills by providing a diverse range of educational content. The platform includes lessons and hands-on challenges in areas such as penetration testing, threat analysis, and network security. TryHackMe offers real-life simulation environments that allow users to apply their new skills in realistic scenarios. The platform targets all levels, from beginners to professionals, making it ideal for anyone looking to develop their skills in this growing field.
 
+![Tryhackme_Hacktivities](Tryhackme_Hacktivities.png)
+
 ## دعوة للمشاركة | Invitation to Join:
 
 انضم إليّ في رحلة استكشاف الأمن السيبراني عبر منصة TryHackMe! هنا ستتاح لك الفرصة للتعلم من خلال مجموعة متنوعة من الدروس والتحديات العملية التي تأخذك من مستوى مبتدئ إلى مستوى محترف. سواء كنت مبتدئًا في هذا المجال أو لديك بعض الخبرة، ستجد محتوى مناسبًا يساعدك على تطوير مهاراتك بشكل فعّال. دعونا نبدأ هذه الرحلة معًا ونتقدم من مستوى مبتدئ إلى مستوى محترف في عالم الأمن السيبراني!
