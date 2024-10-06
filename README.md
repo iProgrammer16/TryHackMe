@@ -16,21 +16,21 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 
 ## الكورسات التي سنقوم بتعلمها | Courses We Will Learn:
 
-| الرقم | اسم الدورة (Course Name)                                  | مستوى الصعوبة (Difficulty Level)           |
-| ----- | --------------------------------------------------------- | ------------------------------------------ |
-| 1     | مبتدئ شامل (Complete Beginner)                            | مبتدئ (Beginner)                           |
-| 2     | الأمن قبل البدء (Pre Security)                            | مبتدئ (Beginner)                           |
-| 3     | مقدمة في الأمن السيبراني (Introduction to Cyber Security) | مبتدئ (Beginner)                           |
-| 4     | أساسيات الويب (Web Fundamentals)                          | مبتدئ (Beginner)                           |
-| 5     | الدفاع السيبراني (Cyber Defense)                          | متوسط (Intermediate)                       |
-| 6     | مركز العمليات الأمنية المستوى 1 (SOC Level 1)             | متوسط (Intermediate)                       |
-| 7     | مركز العمليات الأمنية المستوى 2 (SOC Level 2)             | متوسط (Intermediate)                       |
-| 8     | مختبر اختراق المبتدئين (Jr Penetration Tester)            | متوسط (Intermediate)                       |
-| 9     | شهادة CompTIA Pentest+                                    | متوسط إلى متقدم (Intermediate to Advanced) |
-| 10    | الاختراق الهجومي (Offensive Pentesting)                   | متقدم (Advanced)                           |
-| 11    | مهندس أمان (Security Engineer)                            | متقدم (Advanced)                           |
-| 12    | عمليات الأمان للمطورين (DevSecOps)                        | متقدم (Advanced)                           |
-| 13    | الفريق الأحمر (Red Teaming)                               | متقدم (Advanced)                           |
+| الرقم | اسم الدورة (Course Name)                                  | مستوى الصعوبة (Difficulty Level)           | حالة (Status)               | رابط (Link)                          |
+| ----- | --------------------------------------------------------- | ------------------------------------------ | ---------------------------- | ------------------------------------- |
+| 1     | مبتدئ شامل (Complete Beginner)                            | مبتدئ (Beginner)                           | **في انتظار** / **Pending** ⏳ | [رابط الدورة](#)                     |
+| 2     | الأمن قبل البدء (Pre Security)                            | مبتدئ (Beginner)                           | **في انتظار** / **Pending** ⏳ | [رابط الدورة](#)                     |
+| 3     | مقدمة في الأمن السيبراني (Introduction to Cyber Security) | مبتدئ (Beginner)                           | ✅ **تم** / **Done**              | [رابط الدورة](https://github.com/iProgrammer16/TryHackMe/blob/main/Introduction_to_Cyber_Security/Introduction_to_Cyber_Security.md)                     |
+| 4     | أساسيات الويب (Web Fundamentals)                          | مبتدئ (Beginner)                           | **في انتظار** / **Pending** ⏳ | [رابط الدورة](#)                     |
+| 5     | الدفاع السيبراني (Cyber Defense)                          | متوسط (Intermediate)                       | **في انتظار** / **Pending** ⏳ | [رابط الدورة](#)                     |
+| 6     | مركز العمليات الأمنية المستوى 1 (SOC Level 1)             | متوسط (Intermediate)                       | **في انتظار** / **Pending** ⏳ | [رابط الدورة](#)                     |
+| 7     | مركز العمليات الأمنية المستوى 2 (SOC Level 2)             | متوسط (Intermediate)                       | **في انتظار** / **Pending** ⏳ | [رابط الدورة](#)                     |
+| 8     | مختبر اختراق المبتدئ (Jr Penetration Tester)              | متوسط (Intermediate)                       | **في انتظار** / **Pending** ⏳ | [رابط الدورة](#)                     |
+| 9     | شهادة CompTIA Pentest+                                    | متوسط إلى متقدم (Intermediate to Advanced) | **في انتظار** / **Pending** ⏳ | [رابط الدورة](#)                     |
+| 10    | الاختراق الهجومي (Offensive Pentesting)                   | متقدم (Advanced)                           | **في انتظار** / **Pending** ⏳ | [رابط الدورة](#)                     |
+| 11    | مهندس أمان (Security Engineer)                            | متقدم (Advanced)                           | **في انتظار** / **Pending** ⏳ | [رابط الدورة](#)                     |
+| 12    | عمليات الأمان للمطورين (DevSecOps)                        | متقدم (Advanced)                           | **في انتظار** / **Pending** ⏳ | [رابط الدورة](#)                     |
+| 13    | الفريق الأحمر (Red Teaming)                               | متقدم (Advanced)                           | **في انتظار** / **Pending** ⏳ | [رابط الدورة](#)                     |
 
 ---
 
