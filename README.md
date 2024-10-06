@@ -1,10 +1,12 @@
 # TryHackMe Learning Journey | رحلة تعلم TryHackMe
 
-## نبذة بسيطة عن TryHackMe | A Brief Introduction to TryHackMe:
+## نبذة بسيطة عن منصة TryHackMe | A Brief Introduction to TryHackMe:
 
 TryHackMe هي منصة تعليمية تفاعلية تهدف إلى تعزيز مهارات الأمن السيبراني من خلال تقديم محتوى تعليمي متنوع. تشمل المنصة دروسًا وتحديات عملية في مجالات مثل اختبار الاختراق، وتحليل التهديدات، والأمن الشبكي. توفر TryHackMe بيئات محاكاة حقيقية تسمح للمستخدمين بتطبيق مهاراتهم الجديدة في سيناريوهات واقعية. تستهدف المنصة جميع المستويات، بدءًا من المبتدئين وصولًا إلى المحترفين، مما يجعلها مثالية لكل من يسعى لتطوير مهاراته في هذا المجال المتنامي.
 
 TryHackMe is an interactive learning platform aimed at enhancing cybersecurity skills by providing a diverse range of educational content. The platform includes lessons and hands-on challenges in areas such as penetration testing, threat analysis, and network security. TryHackMe offers real-life simulation environments that allow users to apply their new skills in realistic scenarios. The platform targets all levels, from beginners to professionals, making it ideal for anyone looking to develop their skills in this growing field.
+
+![Tryhackme_Hacktivities](Tryhackme_Hacktivities.png)
 
 ## دعوة للمشاركة | Invitation to Join:
 
@@ -66,7 +68,8 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 (Once you complete the beginner path, you should have learnt the fundamental knowledge for each specific area, and use these core concepts to build your understanding of more complex topics within the area.)
 
 ### المتطلبات الأساسية (Prerequisites)
-تحتاج إلى فهم أساسي لمبادئ الحوسبة العامة وفهم واسع لمجالات الأمن السيبراني المختلفة لإكمال هذا المسار. إذا كنت لا تمتلك هذه المتطلبات الأساسية بعد، يفضل إكمال مسار "ما قبل الأمن" ومسار "مقدمة في الأمن السيبراني".  
+تحتاج إلى فهم أساسي لمبادئ الحوسبة العامة وفهم واسع لمجالات الأمن السيبراني المختلفة لإكمال هذا المسار. إذا كنت لا تمتلك هذه المتطلبات الأساسية بعد، يفضل إكمال مسار "[ما قبل الأمن | Pre Security](https://tryhackme.com/r/path/outline/presecurity)" ومسار "[مقدمة في الأمن السيبراني | Introduction to Cyber Security](https://tryhackme.com/r/path/outline/introtocyber)
+".  
 (You need a basic understanding of fundamental computing principles and a broad understanding of the different areas of cyber security to complete this pathway. If you do not already have these prerequisites, complete the Pre-Security Pathway and Intro To Cyber Security Pathway.)
 
 ---
@@ -109,17 +112,17 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 - **تعرف على الوظائف المختلفة في مجال الأمن السيبراني (Learn about different careers in cyber)**
 - **اختراق تطبيقك الأول (Hack your first application)**
 - **الدفاع ضد هجوم سيبراني حي (Defend against a live cyber attack)**
-- **استكشاف موضوعات الأمان في الصناعة (Explore security topics in the industry)**
+- **استكشاف موضوعات الأمان في المجال (Explore security topics in the industry)**
 
 ### البداية في الأمن السيبراني (Getting Started)
-ابدأ في مجال الأمن السيبراني من خلال اختراق تطبيقك الأول والدفاع ضد هجوم سيبراني حي في بيئة مختبرية محاكاة. تعرف على الوظائف المختلفة في مجال الأمن السيبراني، الأدوار، والمهارات المطلوبة للحصول على وظيفتك الأولى في الصناعة.  
+ابدأ في مجال الأمن السيبراني من خلال اختراق تطبيقك الأول والدفاع ضد هجوم سيبراني حي في بيئة مختبرية محاكاة. تعرف على الوظائف المختلفة في مجال الأمن السيبراني، الأدوار، والمهارات المطلوبة للحصول على وظيفتك الأولى في المجال.  
 (Get started in cyber security by hacking your first application and defending against a live cyber attack in a simulated lab environment. Learn about the different cyber careers, roles, and skills required to get your first job in the industry.)
 
 #### المهارات الأساسية المكتسبة (Acquired Core Skills):
 - **تعرف على الوظائف المختلفة في مجال الأمن السيبراني (Learn about different careers in cyber)**
 - **اختراق تطبيقك الأول (Hack your first application)**
 - **الدفاع ضد هجوم سيبراني حي (Defend against a live cyber attack)**
-- **استكشاف موضوعات الأمان في الصناعة (Explore security topics in the industry)**
+- **استكشاف موضوعات الأمان في المجال (Explore security topics in the industry)**
 
 ### مقدمة عامة (General Introduction)
 يُعد الأمن السيبراني موضوعًا واسعًا، وقد يكون من الصعب معرفة من أين تبدأ. يوفر لك هذا المسار مقدمة عملية في مختلف المجالات داخل الأمن السيبراني، بما في ذلك:  
@@ -128,7 +131,7 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 - **الوظائف في مجال الأمن السيبراني (Careers in Cyber Security)**
 - **الأمن الهجومي: اختراق تطبيقك الأول (Offensive Security: hacking your first application)**
 - **الأمن الدفاعي: الدفاع ضد هجوم سيبراني حي (Defensive Security: defending against a live cyber attack)**
-- **استكشاف موضوعات الأمان في الصناعة (Exploring security topics in the industry)**
+- **استكشاف موضوعات الأمان في المجال (Exploring security topics in the industry)**
 
 #### الفائدة المكتسبة (Gained Knowledge)
 بإكمال هذا المسار التعليمي، ستحصل على المعرفة اللازمة لبدء رحلتك في مجال الأمن السيبراني.  
@@ -147,7 +150,7 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 #### المواضيع الأساسية (Core Topics):
 - **فهم أساسيات الويب (Understand web fundamentals)**
 - **شرح الثغرات الرئيسية (Major vulnerabilities explained)**
-- **تعلم الأدوات المستخدمة في الصناعة (Learn industry-used tools)**
+- **تعلم الأدوات المستخدمة في المجال (Learn industry-used tools)**
 - **تقييمات تطبيقات الويب (Web application assessments)**
 
 تعلم كيفية الهجوم على تطبيقات الويب من خلال تمارين تفاعلية وعالمية.  
@@ -156,7 +159,7 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 #### الهدف من المسار (Pathway Aim)
 الهدف من هذا المسار هو تعليمك كيفية الهجوم على تطبيقات الويب. لكي تتمكن من الهجوم بنجاح واستغلال تطبيقات الويب، تحتاج إلى فهم كيفية عملها. سيقدم لك القسم الأول (أساسيات الويب) كل المعرفة المسبقة اللازمة لذلك.
 
-يركز القسم الثاني (أدوات الأمان) على تعلم كيفية استخدام أدوات المعايير الصناعية للتفاعل مع الأهداف الخاصة بك.
+يركز القسم الثاني (أدوات الأمان) على تعلم كيفية استخدام أدوات المعايير في المجال للتفاعل مع الأهداف الخاصة بك.
 
 يغطي القسم الثالث (الثغرات) مختلف الثغرات الموجودة في تطبيقات الويب اليوم. سوف يتناول هذا القسم الأسباب الجذرية لهذه الثغرات ويقدم لك خبرة عملية في استغلالها.
 
@@ -164,7 +167,7 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 
 #### بعد إكمال هذا المسار، يجب أن تكون قادرًا على: 
 - **فهم كيفية عمل تطبيقات الويب (understand how web applications work)**
-- **استخدام أدوات المعايير الصناعية عند مهاجمة تطبيقات الويب (utilise industry standard tooling when attacking web applications)**
+- **استخدام أدوات المعايير المجال عند مهاجمة تطبيقات الويب (utilise industry standard tooling when attacking web applications)**
 - **شرح واستغلال الثغرات الشائعة في الويب (explain and exploit common web vulnerabilities)**
 - **تطبيق هذه المعرفة على أهداف أخرى (be it within an interview or a professional web applications security assessment)**
 
@@ -195,7 +198,7 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 - **إدارة التهديدات ونقاط الضعف (Threat and Vulnerability Management)**
 - **عمليات الأمن والمراقبة (Security Operations and Monitoring)**
 - **محاكاة التهديدات (Threat Emulation)**
-- **الاستجابة للحوادث والطب الشرعي (Incident Response & Forensics)**
+- **التحقيقات الرقمية والاستجابة للحوادث (Incident Response & Forensics)**
 - **تحليل البرمجيات الخبيثة والهندسة العكسية (Malware Analysis and Reverse Engineering)**
 
 بمجرد إكمال هذا المسار، يجب أن يكون لديك العناصر الأساسية لكشف والرد على التهديدات في بيئة مؤسسية واستخدام هذه المفاهيم الأساسية لبناء فهمك لمواضيع أكثر تعقيدًا في هذا المجال.  
@@ -215,7 +218,7 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 (Learn the skills needed to work as a Junior Security Analyst in a Security Operations Centre.)
 
 #### المواضيع الأساسية (Core Topics):
-- **كشف وتحليل الشذوذ في حركة المرور (Detect and analyse traffic anomalies)**
+- **كشف وتحليل الاستثناءات في حركة المرور (Detect and analyse traffic anomalies)**
 - **مراقبة النقاط النهائية للتهديدات (Monitor endpoints for threats)**
 - **استخدام أدوات SIEM للتعامل مع الحوادث (Utilise SIEM tools to handle incidents)**
 - **التحقيق في الأدلة الجنائية (Investigate forensic artefacts)**
@@ -228,7 +231,7 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 
 تشمل مسؤوليات محلل الأمان المبتدئ أو محلل SOC من المستوى 1 ما يلي:
 - **مراقبة والتحقيق في التنبيهات** (Monitor and investigate alerts) (في معظم الأحيان، يكون ذلك في بيئة عمليات SOC تعمل على مدار الساعة.)
-- **تكوين وإدارة أدوات الأمان (Configure and manage security tools)**
+- **إعداد وإدارة أدوات الأمان (Configure and manage security tools)**
 - **تطوير وتنفيذ توقيعات IDS (Develop and implement IDS signatures)**
 - **تصعيد حوادث الأمان إلى المستوى 2 و قائد الفريق إذا لزم الأمر (Escalate the security incidents to the Tier 2 and Team Lead if needed)**
 
@@ -270,7 +273,7 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 
 #### المواضيع الأساسية (Core Topics):
 - **أساليب وتقنيات اختراق الأنظمة (Pentesting methodologies and tactics)**
-- **التعداد، الاستغلال، والتقارير (Enumeration, exploitation and reporting)**
+- **جمع معلومات، الاستغلال، والتقارير (Enumeration, exploitation and reporting)**
 - **تمارين اختراق عملية واقعية (Realistic hands-on hacking exercises)**
 - **تعلم أدوات الأمان المستخدمة في المجال (Learn security tools used in the industry)**
 
@@ -323,22 +326,22 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 (Prepare yourself for real world penetration testing.)
 
 #### المواضيع الأساسية (Core Topics):
-- **استخدام أدوات معايير الصناعة (Utilise industry standard tools)**
+- **استخدام أدوات معايير المجال (Utilise industry standard tools)**
 - **تعلم سيناريوهات الهجوم الواقعية (Learn realistic attack scenarios)**
 - **التدريب في الأمن الهجومي (Train in offensive security)**
 - **تمارين وموارد داعمة (Supporting exercises & resources)**
 
-اكتسب المهارات اللازمة للحصول على الشهادات المعروفة في صناعة الأمن. تعلم عن أدوات اختبار الاختراق المستخدمة في الصناعة واكتساب تقنيات لتصبح مختبر اختراق ناجح.  
+اكتسب المهارات اللازمة للحصول على الشهادات المعروفة في مجال الأمن. تعلم عن أدوات اختبار الاختراق المستخدمة في المجال واكتساب تقنيات لتصبح مختبر اختراق ناجح.  
 (Acquire the skills needed to go and get certified by well known certifiers in the security industry. Learn about industry-used penetration testing tools and attain techniques to become a successful penetration tester.)
 
 #### مقدمة عامة (General Introduction)
 مهما كانت موقعك، ستكون المهارات والمتطلبات لمختبر الاختراق هي نفسها. ستحتاج إلى فهم جيد لمختلف جوانب الأمن المعلوماتي بما في ذلك تطبيقات الويب، والشبكات، وأحيانًا حتى التكنولوجيا منخفضة المستوى مثل لغة التجميع. إن الفهم الجيد لهذه التقنيات أمر أساسي لتعلم كيفية استغلالها.  
 (No matter where you are, the skills and requirements for a penetration tester will be the same. You’ll be required to have a good understanding of various aspects within information security including web applications, networks and sometimes even low level technology like assembly. A good understanding of these technologies is essential to learning how to exploit them.)
 
-الهدف من هذا المسار هو جعلك جاهزًا لاختبار الاختراق في العالم الحقيقي من خلال تعليمك كيفية استخدام أدوات معايير الصناعة مع منهجية للعثور على الثغرات في الآلات. بحلول الوقت الذي تكمل فيه هذا المسار، ستكون مستعدًا تمامًا للمقابلات والوظائف كمختبر اختراق. لكي تكمل هذا المسار، يجب أن يكون لديك فهم أساسي إلى متوسط للحوسبة.  
+الهدف من هذا المسار هو جعلك جاهزًا لاختبار الاختراق في العالم الحقيقي من خلال تعليمك كيفية استخدام أدوات معايير المجال مع منهجية للعثور على الثغرات في الآلات. بحلول الوقت الذي تكمل فيه هذا المسار، ستكون مستعدًا تمامًا للمقابلات والوظائف كمختبر اختراق. لكي تكمل هذا المسار، يجب أن يكون لديك فهم أساسي إلى متوسط للحوسبة.  
 (The aim of this path is to make you ready for real world penetration testing by teaching you how to use industry standard tools along with a methodology to find vulnerabilities in machines. By the time you complete this path, you will be well prepared for interviews and jobs as a penetration tester. To complete this path you should have a basic to medium understanding of computing.)
 
-يمكنك استخدام هذا المسار لمساعدتك في اكتساب المهارات اللازمة للحصول على الشهادات المعروفة في صناعة الأمن.  
+يمكنك استخدام هذا المسار لمساعدتك في اكتساب المهارات اللازمة للحصول على الشهادات المعروفة في مجال الأمن.  
 (You can use this pathway to help you acquire the skills needed to go and get certified by well known certifiers in the security industry.)
 
 ---
@@ -403,7 +406,7 @@ Join me on a journey to explore cybersecurity through TryHackMe! Here you will h
 
 #### المواضيع الأساسية (Core Topics):
 - **استخدام تقنيات متنوعة للوصول الأولي (Use diverse techniques for initial access)**
-- **العد على الأهداف والبقاء عليها (Enumerate and persist on targets)**
+- **جمع الأهداف والبقاء عليها (Enumerate and persist on targets)**
 - **تجنب حلول الأمان (Evade security solutions)**
 - **استغلال Active Directory (Exploit Active Directory)**
 
